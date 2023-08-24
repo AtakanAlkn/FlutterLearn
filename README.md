@@ -45,4 +45,4 @@ This repository is licensed under the [MIT License](LICENSE).
 ## Contact
 If you have any questions, suggestions, or just want to connect, you can reach me at:
 - Email: alkan.atakan@outlook.com
-- LinkedIn: [Atakan Alkan](https://www.linkedin.com/in/atakanalkn/)
+- LinkedIn: [Atakan Alkan](https://www.linkedin.com/in/atakanalkn/) 
