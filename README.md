@@ -1,6 +1,9 @@
 # FlutterLearn
 
-![Flutter Logo](https://logowik.com/content/uploads/images/flutter5786.jpg)
+<div align="center">
+  <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" alt="Flutter Logo" width="300">
+</div>
+
 
 Welcome to my Flutter Showcase repository! In this repository, you'll find a collection of Flutter projects that I've developed while learning Flutter. From simple widgets to full-page layouts and even notification handling, this repository covers a wide range of Flutter concepts and features.
 
